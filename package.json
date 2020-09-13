@@ -1,0 +1,20 @@
+{
+  "name": "myitems-bot-snapshot-v2.0",
+  "version": "2.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "x_derx_it",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "ffmpeg": "0.0.4",
+    "moment": "^2.27.0",
+    "novelcovid": "^3.0.0",
+    "opusscript": "0.0.7",
+    "simple-youtube-api": "^5.2.1",
+    "ytdl-core": "^3.2.2"
+  }
+}
